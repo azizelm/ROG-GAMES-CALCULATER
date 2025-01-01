@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/azizelm/ROG-GAMES-CALCULATER.git/static/css/main.b417b92a.css",
+    "main.js": "/azizelm/ROG-GAMES-CALCULATER.git/static/js/main.24ae16c4.js",
+    "static/js/453.5bb7cbd8.chunk.js": "/azizelm/ROG-GAMES-CALCULATER.git/static/js/453.5bb7cbd8.chunk.js",
+    "index.html": "/azizelm/ROG-GAMES-CALCULATER.git/index.html",
+    "main.b417b92a.css.map": "/azizelm/ROG-GAMES-CALCULATER.git/static/css/main.b417b92a.css.map",
+    "main.24ae16c4.js.map": "/azizelm/ROG-GAMES-CALCULATER.git/static/js/main.24ae16c4.js.map",
+    "453.5bb7cbd8.chunk.js.map": "/azizelm/ROG-GAMES-CALCULATER.git/static/js/453.5bb7cbd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b417b92a.css",
+    "static/js/main.24ae16c4.js"
+  ]
+}
