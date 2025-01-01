@@ -26,6 +26,7 @@ body {
   height: 100%;
   object-fit: cover;
   pointer-events: none;
+  filter: blur(10px);
 }
 
 /* Main card styling */
@@ -48,7 +49,7 @@ body {
 }
 
 h1 {
-  color: #FFD700; /* Gold color for title */
+  color: #00ff00; /* Gold color for title */
   font-size: 2.5rem;
   margin-bottom: 20px;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
@@ -63,7 +64,7 @@ h3 {
 
 label {
   display: block;
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #e0e0e0; /* Light gray for labels */
   margin-bottom: 5px;
 }
@@ -74,7 +75,7 @@ input {
   width: 80%;
   max-width: 350px;
   margin-bottom: 20px;
-  background-color: #333;
+  background-color: #70707049;
   border: 1px solid #444;
   border-radius: 8px;
   color: #f5f5f5;
@@ -83,14 +84,14 @@ input {
 }
 
 input:focus {
-  border-color: #FF6347; /* Tomato red on focus */
+  border-color: #00ff00; /* Tomato red on focus */
   outline: none;
-  background-color: #444;
+  background-color: #3b3939;
 }
 
 /* Button styling */
 button {
-  background-color: #FF6347; /* Tomato red button */
+  background-color: #00ff00; /* Tomato red button */
   color: white;
   padding: 12px 25px;
   border: none;
@@ -115,7 +116,7 @@ div {
 
 h3, p {
   font-size: 1.2rem;
-  color: #b0b0b0;
+  color: #00ff00;
 }
 
 p {
